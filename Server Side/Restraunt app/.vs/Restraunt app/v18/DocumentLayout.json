@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
+              "RelativeDocumentMoniker": "MenuService\\appsettings.json",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
+              "RelativeToolTip": "MenuService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T22:54:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\Category.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\Entites\\Category.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IMenuRepository.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\IMenuRepository.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\ICategoryService.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Program.cs",
               "RelativeDocumentMoniker": "MenuService\\Program.cs",
@@ -146,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuItemUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
@@ -154,12 +171,11 @@
               "RelativeToolTip": "MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T18:58:22.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T18:58:22.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\ICategoryRepository.cs",
@@ -171,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\CategoryDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\CategoryDto.cs",
@@ -179,12 +195,11 @@
               "RelativeToolTip": "MenuService\\Application\\Dtos\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T17:33:47.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T17:33:47.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MenuService\\API\\Controllers\\CategoryController.cs",
@@ -196,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Services\\CategoryService.cs",
@@ -204,12 +219,11 @@
               "RelativeToolTip": "MenuService\\Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwDAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T17:33:08.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T17:33:08.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IMenuService.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuService.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\IMenuService.cs",
@@ -217,12 +231,11 @@
               "RelativeToolTip": "MenuService\\Core\\interfaces\\IMenuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T16:09:32.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T16:09:32.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\MenuItem.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\Entites\\MenuItem.cs",
@@ -230,12 +243,11 @@
               "RelativeToolTip": "MenuService\\Core\\Entites\\MenuItem.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:44:20.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:44:20.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MenuRepository.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
@@ -247,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "MenuService\\API\\Controllers\\MenuController.cs",
@@ -255,12 +267,11 @@
               "RelativeToolTip": "MenuService\\API\\Controllers\\MenuController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:43:53.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:43:53.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuItemDto.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemDto.cs",
@@ -273,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MenuService.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\MenuService.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Services\\MenuService.cs",
@@ -281,12 +292,11 @@
               "RelativeToolTip": "MenuService\\Application\\Services\\MenuService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwDsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:41:48.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:41:48.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuItemCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
@@ -294,8 +304,7 @@
               "RelativeToolTip": "MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:41:46.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:41:46.178Z"
             }
           ]
         }
