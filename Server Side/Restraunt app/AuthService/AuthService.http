@@ -1,0 +1,19 @@
+@AuthService_HostAddress = https://localhost:7221
+
+GET {{AuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AuthService_HostAddress}}/api/auth
+
+###
+
+POST {{AuthService_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  //RegisterDtos
+}
+
+###
