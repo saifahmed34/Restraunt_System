@@ -1,0 +1,28 @@
+# Frontend (React)
+Client Side/Restraunt/node_modules
+client/build/
+Client Side/Restraunt/dist
+client/.env.local
+client/.env.*.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Backend (ASP.NET & Node.js Microservices)
+server/**/node_modules/
+server/**/bin/
+server/**/obj/
+server/**/.env
+server/**/.vs/
+server/**/.vscode/
+server/**/*.user
+server/**/*.suo
+server/**/*.sln.docstates
+server/**/appsettings.Development.json
+
+# General
+.DS_Store
+.env
+*.log
+.idea/
+workspace.xml
