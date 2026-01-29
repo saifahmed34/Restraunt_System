@@ -9,16 +9,10 @@ client/yarn-debug.log*
 client/yarn-error.log*
 
 # Backend (ASP.NET & Node.js Microservices)
-server Side Side/**/node_modules/
-server Side Side/**/bin/
-server Side/**/obj/
-server Side/**/.env
-server Side/**/.vs/
-server Side/**/.vscode/
-server Side/**/*.user
-server Side/**/*.suo
-server Side/**/*.sln.docstates
-server Side/**/appsettings.Development.json
+Server Side/Restraunt app/MenuService/obj
+Server Side/Restraunt app/MenuService/bin
+Server Side/Restraunt app/AuthService/bin
+Server Side/Restraunt app/AuthService/obj
 
 # General
 .DS_Store
