@@ -1,77 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\",
+  "WorkspaceRootPath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{755A71AC-0788-41D6-A3C4-BA0C3313679A}|AuthService\\AuthService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755A71AC-0788-41D6-A3C4-BA0C3313679A}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\migrations\\menudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\migrations\\menudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131110559_final database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuService\\Migrations\\20260131110559_final database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131105817_fianl database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuService\\Migrations\\20260131105817_fianl database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\res app\\server side\\restraunt app\\menuservice\\core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AD01A3-B49E-4CA1-8ECE-06D63308FB7F}|MenuService\\MenuService.csproj|solutionrelative:menuservice\\core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,36 +106,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
-              "RelativeDocumentMoniker": "MenuService\\appsettings.json",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
-              "RelativeToolTip": "MenuService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-29T22:54:24.644Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T11:08:45.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\Category.cs",
-              "RelativeDocumentMoniker": "MenuService\\Core\\Entites\\Category.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\Category.cs",
-              "RelativeToolTip": "MenuService\\Core\\Entites\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MenuDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\MenuDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MenuService\\Migrations\\MenuDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\MenuDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MenuService\\Migrations\\MenuDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T21:08:31.266Z"
+              "WhenOpened": "2026-01-31T11:06:34.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "20260131110559_final database.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131110559_final database.cs",
+              "RelativeDocumentMoniker": "MenuService\\Migrations\\20260131110559_final database.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131110559_final database.cs",
+              "RelativeToolTip": "MenuService\\Migrations\\20260131110559_final database.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T11:05:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260131105817_fianl database.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131105817_fianl database.cs",
+              "RelativeDocumentMoniker": "MenuService\\Migrations\\20260131105817_fianl database.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Migrations\\20260131105817_fianl database.cs",
+              "RelativeToolTip": "MenuService\\Migrations\\20260131105817_fianl database.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T10:58:18.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
+              "RelativeDocumentMoniker": "MenuService\\appsettings.json",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\appsettings.json",
+              "RelativeToolTip": "MenuService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T22:54:24.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "MenuService\\Core\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\Category.cs",
+              "RelativeToolTip": "MenuService\\Core\\Entites\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T21:08:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IMenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\IMenuRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuRepository.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuRepository.cs",
               "RelativeToolTip": "MenuService\\Core\\interfaces\\IMenuRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "MenuService\\Infrastructure\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryService.cs",
               "RelativeToolTip": "MenuService\\Core\\interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,23 +218,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Program.cs",
               "RelativeDocumentMoniker": "MenuService\\Program.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Program.cs",
               "RelativeToolTip": "MenuService\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T17:17:39.461Z"
+              "WhenOpened": "2026-01-22T17:17:39.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MenuItemUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
               "RelativeToolTip": "MenuService\\Application\\Dtos\\MenuItemUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\ICategoryRepository.cs",
               "RelativeToolTip": "MenuService\\Core\\interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\CategoryDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\CategoryDto.cs",
               "RelativeToolTip": "MenuService\\Application\\Dtos\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MenuService\\API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "MenuService\\API\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAIAxwDAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\CategoryService.cs",
               "RelativeToolTip": "MenuService\\Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwDAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuService.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\interfaces\\IMenuService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\interfaces\\IMenuService.cs",
               "RelativeToolTip": "MenuService\\Core\\interfaces\\IMenuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\MenuItem.cs",
               "RelativeDocumentMoniker": "MenuService\\Core\\Entites\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Core\\Entites\\MenuItem.cs",
               "RelativeToolTip": "MenuService\\Core\\Entites\\MenuItem.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "MenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
               "RelativeDocumentMoniker": "MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
               "RelativeToolTip": "MenuService\\Infrastructure\\Repositories\\MenuRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "MenuService\\API\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\API\\Controllers\\MenuController.cs",
               "RelativeToolTip": "MenuService\\API\\Controllers\\MenuController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,24 +339,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MenuItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemDto.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemDto.cs",
               "RelativeToolTip": "MenuService\\Application\\Dtos\\MenuItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:43:51.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:43:51.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\MenuService.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Services\\MenuService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Services\\MenuService.cs",
               "RelativeToolTip": "MenuService\\Application\\Services\\MenuService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwDsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MenuItemCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
               "RelativeDocumentMoniker": "MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
               "RelativeToolTip": "MenuService\\Application\\Dtos\\MenuItemCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

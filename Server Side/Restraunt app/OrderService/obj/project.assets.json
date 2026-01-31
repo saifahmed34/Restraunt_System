@@ -4596,11 +4596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\OrderService\\OrderService.csproj",
+      "projectUniqueName": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\OrderService\\OrderService.csproj",
+      "projectPath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.csproj",
       "packagesPath": "C:\\Users\\saifa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saifa\\Desktop\\Res App\\Server Side\\Restraunt app\\OrderService\\obj\\",
+      "outputPath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
