@@ -48,7 +48,7 @@ const Account = () => {
   // ------------------------ FETCH PROFILE ------------------------
   const fetchProfile = async () => {
     try {
-      const res = await fetch(`http://localhost:5265/api/user/profile`, {
+      const res = await fetch(`http://localhost:5000/api/user/profile`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -61,7 +61,7 @@ const Account = () => {
 
   const fetchOrders = async () => {
     try {
-      const res = await fetch(`http://localhost:5005/api/orders`, {
+      const res = await fetch(`http://localhost:5000/api/orders`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setOrders(await res.json());
@@ -70,7 +70,7 @@ const Account = () => {
 
   const fetchAddresses = async () => {
     try {
-      const res = await fetch(`http://localhost:5005/api/addresses`, {
+      const res = await fetch(`http://localhost:5000/api/addresses`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setAddresses(await res.json());
@@ -110,7 +110,7 @@ const Account = () => {
     }
 
     try {
-      const res = await fetch(`http://localhost:5265/api/user/profile`, {
+      const res = await fetch(`http://localhost:5000/api/user/profile`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

@@ -2,6 +2,8 @@
 using MenuService.Infrastructure.Persistence;
 using MenuService.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MenuService.Infrastructure.DependencyInjrct
 {

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jVWTGBqMEs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saifa\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\saifa\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ffoz2Dqmps0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Core\\OrderService.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saifa\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

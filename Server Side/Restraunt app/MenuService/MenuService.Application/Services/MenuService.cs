@@ -1,8 +1,8 @@
 ﻿using Mapster;
 using MenuService.Application.Dtos;
+using MenuService.Application.Interfaces;
 using MenuService.Core.Entites;
 using MenuService.Core.interfaces;
-using Microsoft.AspNetCore.Mvc;
 
 
 namespace MenuService.Application.Services
@@ -69,7 +69,7 @@ namespace MenuService.Application.Services
                 IsAvailable = dto.IsAvailable
             };
 
-            if (dto.imageurl != null)
+            if (dto.imageurl is not null)
             {
                 var uploadsPath = Path.Combine("wwwroot", "images");
                 Directory.CreateDirectory(uploadsPath);
@@ -100,7 +100,7 @@ namespace MenuService.Application.Services
             entity.CategoryId = dto.CategoryId;
             entity.IsAvailable = dto.IsAvailable;
 
-            if (dto.imageurl != null)
+            if (dto.imageurl is not null)
             {
                 var uploadsPath = Path.Combine("wwwroot", "images");
                 Directory.CreateDirectory(uploadsPath);

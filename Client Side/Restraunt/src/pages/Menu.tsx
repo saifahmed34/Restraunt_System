@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Plus } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
-const apiUrl = "http://localhost:5005"
+// const apiUrl = "http://localhost:5005"
 const Menu = () => {
   const { toast } = useToast();
   const [menuItems, setMenuItems] = useState<any[]>([]);
@@ -16,7 +16,7 @@ const Menu = () => {
   // --------------------------
   const fetchMenu = async () => {
     try {
-      const res = await fetch(`api/menu`); // your MenuService URL
+      const res = await fetch(`http://localhost:5000/api/menu`); // Gateway URL
       const data = await res.json();
       console.log(data)
       setMenuItems(data);
@@ -30,7 +30,7 @@ const Menu = () => {
 
   const fetchCategories = async () => {
     try {
-      const res = await fetch(`api/category`);
+      const res = await fetch(`http://localhost:5000/api/category`);
       const data = await res.json(); // CategoryDto[]
 
       setCategories(data);

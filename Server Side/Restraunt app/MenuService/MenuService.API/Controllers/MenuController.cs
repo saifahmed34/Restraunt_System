@@ -1,7 +1,5 @@
-﻿using Mapster;
-using MenuService.Application.Dtos;
-using MenuService.Core.Entites;
-using MenuService.Core.interfaces;
+﻿using MenuService.Application.Dtos;
+using MenuService.Application.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,8 +10,6 @@ namespace MenuService.API.Controllers
     public class MenuController : ControllerBase
     {
         private readonly IMenuService _menuService;
-
-
         public MenuController(IMenuService menuService)
         {
             _menuService = menuService;
@@ -54,7 +50,7 @@ namespace MenuService.API.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(Guid id, [FromForm] MenuItemCreateDto dto)
         {
-     
+
             await _menuService.UpdateAsync(id, dto);
             return NoContent();
         }

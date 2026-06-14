@@ -1,7 +1,7 @@
-﻿using AuthService.Application.Dtos;
+using AuthService.Application.Dtos;
 using AuthService.Core.Entities;
 using AuthService.Infrastructure;
-using AuthService.Infrastructure.interfaces;
+using AuthService.Application.Interfaces;
 using Mapster;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

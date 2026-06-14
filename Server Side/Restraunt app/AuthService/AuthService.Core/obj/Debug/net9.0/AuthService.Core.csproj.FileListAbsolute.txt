@@ -1,0 +1,12 @@
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\bin\Debug\net9.0\AuthService.Core.deps.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\bin\Debug\net9.0\AuthService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\bin\Debug\net9.0\AuthService.Core.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.AssemblyInfoInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.AssemblyInfo.cs
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.csproj.CoreCompileInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.sourcelink.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\refint\AuthService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\AuthService.Core.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\AuthService\AuthService.Core\obj\Debug\net9.0\ref\AuthService.Core.dll

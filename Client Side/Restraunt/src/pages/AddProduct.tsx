@@ -32,7 +32,7 @@ const AddProduct = () => {
   // ---------------- FETCH PROFILE ----------------
   const fetchProfile = async () => {
     try {
-      const res = await fetch("http://localhost:5265/api/user/profile", {
+      const res = await fetch("http://localhost:5000/api/user/profile", {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -45,7 +45,7 @@ const AddProduct = () => {
   // ---------------- FETCH CATEGORIES ----------------
   const fetchCategories = async () => {
     try {
-      const res = await fetch("http://localhost:5005/api/categories"); // MenuService endpoint
+      const res = await fetch("http://localhost:5000/api/category"); // Gateway endpoint
       const data = await res.json();
       setCategories(data);
     } catch (err) {
@@ -76,7 +76,7 @@ const AddProduct = () => {
     }
 
     try {
-      const res = await fetch("http://localhost:5005/api/menu", {
+      const res = await fetch("http://localhost:5000/api/menu", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

@@ -1,0 +1,12 @@
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.deps.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.AssemblyInfoInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.AssemblyInfo.cs
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.csproj.CoreCompileInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.sourcelink.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\refint\OrderService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\OrderService\OrderService.Core\obj\Debug\net9.0\ref\OrderService.Core.dll

@@ -1,6 +1,6 @@
 ﻿namespace AuthService.Application.Dtos
 {
-    internal class UserDto
+    public class UserDto
     {
         public string Name { get; set; }
         public string Email { get; set; }

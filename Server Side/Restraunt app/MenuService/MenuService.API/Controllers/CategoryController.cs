@@ -1,4 +1,5 @@
 ﻿using MenuService.Application.Dtos;
+using MenuService.Application.Interfaces;
 using MenuService.Core.interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -10,8 +11,6 @@ namespace MenuService.API.Controllers
     public class CategoryController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
-
-
         public CategoryController(ICategoryService categoryService)
         {
             _categoryService = categoryService;

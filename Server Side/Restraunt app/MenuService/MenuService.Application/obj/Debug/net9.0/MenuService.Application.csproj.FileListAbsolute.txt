@@ -1,0 +1,16 @@
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.csproj.AssemblyReference.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.AssemblyInfoInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.AssemblyInfo.cs
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.csproj.CoreCompileInputs.cache
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.sourcelink.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\bin\Debug\net9.0\MenuService.Application.deps.json
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\bin\Debug\net9.0\MenuService.Application.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\bin\Debug\net9.0\MenuService.Application.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\bin\Debug\net9.0\MenuService.Core.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\bin\Debug\net9.0\MenuService.Core.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuServ.F388C5D1.Up2Date
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\refint\MenuService.Application.dll
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\MenuService.Application.pdb
+C:\Users\saifa\Desktop\Restraunt-with-react\Server Side\Restraunt app\MenuService\MenuService.Application\obj\Debug\net9.0\ref\MenuService.Application.dll
