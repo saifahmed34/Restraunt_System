@@ -24,7 +24,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-//builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AuthDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IJwtService, JwtService>();
@@ -36,7 +36,7 @@ builder.Services.AddAuthentication("Bearer")
         var jwtSection = builder.Configuration.GetSection("Jwt");
         var secret = jwtSection["Key"];
         if (string.IsNullOrWhiteSpace(secret))
-            throw new Exception("JWT Secret not configured!"); // <-- this was triggered
+            throw new Exception("JWT Secret not configured!");
 
         options.TokenValidationParameters = new TokenValidationParameters
         {
@@ -64,8 +64,8 @@ app.UseCors("AllowFrontend");
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
-    // app.UseSwagger();
-    // app.UseSwaggerUI();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();

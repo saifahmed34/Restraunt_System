@@ -3,119 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:authservice\\authservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:authservice\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.core\\menuservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|solutionrelative:menuservice\\menuservice.core\\menuservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|solutionrelative:menuservice\\menuservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\dtos\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.api\\menuservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|solutionrelative:menuservice\\menuservice.api\\menuservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\menuservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\menuservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.infrastructure\\dependencyinjrct\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|solutionrelative:menuservice\\menuservice.infrastructure\\dependencyinjrct\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F756FA8E-712A-4E5F-8DC8-C57C442C4173}|OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\orderservice\\orderservice.application\\orderservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F756FA8E-712A-4E5F-8DC8-C57C442C4173}|OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:orderservice\\orderservice.application\\orderservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{440813D3-C3B6-410F-946B-BCD5CF2D8434}|OrderService\\OrderService.API\\OrderService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\orderservice\\orderservice.api\\orderservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{440813D3-C3B6-410F-946B-BCD5CF2D8434}|OrderService\\OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice\\orderservice.api\\orderservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\dtos\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B805E7DA-2AF4-4EA1-A402-73D6F5D55208}|OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\orderservice\\orderservice.infrastructure\\orderservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B805E7DA-2AF4-4EA1-A402-73D6F5D55208}|OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|solutionrelative:orderservice\\orderservice.infrastructure\\orderservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|solutionrelative:menuservice\\menuservice.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511CD013-53BE-4A75-9B45-AFF73572FA68}|OrderService\\OrderService.Core\\OrderService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\orderservice\\orderservice.core\\orderservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{511CD013-53BE-4A75-9B45-AFF73572FA68}|OrderService\\OrderService.Core\\OrderService.Core.csproj|solutionrelative:orderservice\\orderservice.core\\orderservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:authservice\\authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFFABDC-F898-4918-AFFD-616C6738F71B}|MenuService\\MenuService.API\\MenuService.API.csproj|solutionrelative:menuservice\\menuservice.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saifa\\.copilot\\plans\\plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.infrastructure\\authservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice\\authservice.infrastructure\\authservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice\\authservice.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.application\\authservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice\\authservice.application\\authservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice\\authservice.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABBB56EC-EB50-435E-A2FC-44DF512D6A3E}|ApiGateway\\ApiGateway.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABBB56EC-EB50-435E-A2FC-44DF512D6A3E}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABBB56EC-EB50-435E-A2FC-44DF512D6A3E}|ApiGateway\\ApiGateway.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABBB56EC-EB50-435E-A2FC-44DF512D6A3E}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A07C8CD-5D54-4181-AF81-A1D5A6BAA813}|AuthService\\AuthService.Core\\AuthService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.core\\authservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A07C8CD-5D54-4181-AF81-A1D5A6BAA813}|AuthService\\AuthService.Core\\AuthService.Core.csproj|solutionrelative:authservice\\authservice.core\\authservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:authservice\\authservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.application\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice\\authservice.application\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7442EC9C-EE48-4F2D-8212-E86BF6146453}|AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice\\authservice.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A07C8CD-5D54-4181-AF81-A1D5A6BAA813}|AuthService\\AuthService.Core\\AuthService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A07C8CD-5D54-4181-AF81-A1D5A6BAA813}|AuthService\\AuthService.Core\\AuthService.Core.csproj|solutionrelative:authservice\\authservice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71C78E69-B176-4239-A0F6-D7AFB7FCE604}|AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:authservice\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice\\authservice.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\authservice\\authservice.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33D0C82-EDA4-4191-A610-FA2ACF6F86DE}|AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice\\authservice.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|solutionrelative:menuservice\\menuservice.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|solutionrelative:menuservice\\menuservice.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|solutionrelative:menuservice\\menuservice.core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C43C8B-3F42-48FF-81E4-B0C630BEE7EA}|MenuService\\MenuService.Core\\MenuService.Core.csproj|solutionrelative:menuservice\\menuservice.core\\entites\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7D59EC-D100-473E-88DE-0B28F6700CB8}|MenuService\\MenuService.Application\\MenuService.Application.csproj|solutionrelative:menuservice\\menuservice.application\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|c:\\users\\saifa\\desktop\\restraunt-with-react\\server side\\restraunt app\\menuservice\\menuservice.infrastructure\\menuservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F8C9492-B252-4815-9F34-EF787934BB40}|MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj|solutionrelative:menuservice\\menuservice.infrastructure\\menuservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -125,8 +73,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Program.cs",
+              "RelativeToolTip": "AuthService\\AuthService.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T23:02:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\saifa\\.copilot\\plans\\plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.copilot\\plans\\plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md",
+              "ToolTip": "C:\\Users\\saifa\\.copilot\\plans\\plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md [Preview]",
+              "RelativeToolTip": "..\\..\\..\\..\\.copilot\\plans\\plan-update-workspace-to-.net-10-and-restoreupdate-missing-nuget-packages.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-14T22:34:54.353Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Program.cs",
+              "RelativeDocumentMoniker": "MenuService\\MenuService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Program.cs",
+              "RelativeToolTip": "MenuService\\MenuService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:28:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.Core",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Core\\OrderService.Core.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.Core\\OrderService.Core.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Core\\OrderService.Core.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.Core\\OrderService.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.Application",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:25.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.API",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.API\\OrderService.API.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.API\\OrderService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj",
+              "RelativeToolTip": "MenuService\\MenuService.Infrastructure\\MenuService.Infrastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuService.Core",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\MenuService.Core.csproj",
+              "RelativeDocumentMoniker": "MenuService\\MenuService.Core\\MenuService.Core.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\MenuService.Core.csproj",
+              "RelativeToolTip": "MenuService\\MenuService.Core\\MenuService.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuService.Application",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\MenuService.Application.csproj",
+              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\MenuService.Application.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\MenuService.Application.csproj",
+              "RelativeToolTip": "MenuService\\MenuService.Application\\MenuService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuService.API",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\MenuService.API.csproj",
+              "RelativeDocumentMoniker": "MenuService\\MenuService.API\\MenuService.API.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\MenuService.API.csproj",
+              "RelativeToolTip": "MenuService\\MenuService.API\\MenuService.API.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:28:02.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:27:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.Core",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Core\\AuthService.Core.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.Core\\AuthService.Core.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Core\\AuthService.Core.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.Core\\AuthService.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:27:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.Application",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:27:49.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.API",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\AuthService.API.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.API\\AuthService.API.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\AuthService.API.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.API\\AuthService.API.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:27:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiGateway",
+              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T22:27:39.943Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -138,383 +293,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Program.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.API\\Program.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Program.cs",
-              "RelativeToolTip": "MenuService\\MenuService.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T21:48:29.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAPUTAAAAAAAAAAAgwOcTAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-14T21:40:02.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Interfaces\\IMenuService.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Interfaces\\IMenuService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Interfaces\\IMenuService.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Interfaces\\IMenuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T21:04:30.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.API\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "MenuService\\MenuService.API\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:58:39.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MenuService\\MenuService.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:58:33.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\DependencyInjrct\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Infrastructure\\DependencyInjrct\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\DependencyInjrct\\DependencyInjection.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Infrastructure\\DependencyInjrct\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:57:25.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuService.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\MenuService.Application.csproj",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\MenuService.Application.csproj",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\MenuService.Application.csproj",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\MenuService.Application.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-14T20:57:02.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItemCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemCreateDto.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Dtos\\MenuItemCreateDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemCreateDto.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Dtos\\MenuItemCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:56:12.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuItemUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemUpdateDto.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Dtos\\MenuItemUpdateDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemUpdateDto.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Dtos\\MenuItemUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:13:56.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:13:39.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:12:49.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MenuItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemDto.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Dtos\\MenuItemDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\MenuItemDto.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Dtos\\MenuItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:54:36.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Services\\MenuService.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Services\\MenuService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Services\\MenuService.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Services\\MenuService.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAIBJwEwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:53:38.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\Entites\\MenuItem.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Core\\Entites\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\Entites\\MenuItem.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Core\\Entites\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:53:30.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\Entites\\Category.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Core\\Entites\\Category.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\Entites\\Category.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Core\\Entites\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:53:27.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Core\\interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Core\\interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Core\\interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:52:48.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:52:43.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Dtos\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Dtos\\CategoryDto.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Dtos\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:51:03.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "MenuService\\MenuService.Application\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\MenuService\\MenuService.Application\\Services\\CategoryService.cs",
-              "RelativeToolTip": "MenuService\\MenuService.Application\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:26:31.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Interfaces\\IJwtService.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Application\\Interfaces\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Interfaces\\IJwtService.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Application\\Interfaces\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:25:52.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RegisterDtos.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\RegisterDtos.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Application\\Dtos\\RegisterDtos.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\RegisterDtos.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Application\\Dtos\\RegisterDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:25:49.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AuthService\\AuthService.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T19:25:35.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Infrastructure\\AuthDbContext.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Infrastructure\\AuthDbContext.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Infrastructure\\AuthDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:27:31.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Core\\Entities\\User.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:27:19.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Application\\Dtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\LoginDto.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Application\\Dtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:25:03.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Program.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.API\\Program.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Program.cs",
-              "RelativeToolTip": "AuthService\\AuthService.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:24:24.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.Application\\Dtos\\UserDto.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.Application\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "AuthService\\AuthService.Application\\Dtos\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:24:09.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\AuthService\\AuthService.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthService\\AuthService.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAowEEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:22:40.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\ApiGateway\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
-              "ToolTip": "C:\\Users\\saifa\\Desktop\\Restraunt-with-react\\Server Side\\Restraunt app\\ApiGateway\\Program.cs",
-              "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:06:57.886Z",
-              "EditorCaption": ""
             }
           ]
         }
