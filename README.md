@@ -125,12 +125,12 @@ curl -X GET http://localhost:5000/api/menu \
 ```
 
 ## Future Improvements
+- [ ] Implement Order Services
 - [ ] Implement Frontend Using React
 - [ ] Implement Redis for caching frequently accessed menu items.
 - [ ] Add a message broker (RabbitMQ/Kafka) for asynchronous communication (e.g., Order created -> Notify kitchen).
 - [ ] Containerize services using Docker and Docker Compose for easier local development.
 - [ ] Implement integration and unit tests using xUnit and Moq.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
