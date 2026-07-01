@@ -3,6 +3,9 @@ using MenuService.Application.Dtos;
 using MenuService.Application.Interfaces;
 using MenuService.Core.Entites;
 using MenuService.Core.interfaces;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Logging;
+using System.Text.Json;
 
 
 namespace MenuService.Application.Services
@@ -10,17 +13,29 @@ namespace MenuService.Application.Services
     public class MenuService : IMenuService
     {
         private readonly IMenuRepository _menuRepository;
+        private readonly IDistributedCache _cache;
+        private readonly ILogger<MenuService> _logger;
 
-
-        public MenuService(IMenuRepository menuRepository)
+        public MenuService(IMenuRepository menuRepository, IDistributedCache cache, ILogger<MenuService> logger)
         {
             _menuRepository = menuRepository;
-
+            _cache = cache;
+            _logger = logger;
         }
         public async Task<IEnumerable<MenuItemDto>> GetAllAsync()
         {
+            var cacheKey = "menuItems";
+            var cachedMenuItems = await _cache.GetStringAsync(cacheKey);
+            if (!string.IsNullOrEmpty(cachedMenuItems))
+            {
+               var cacheditem = JsonSerializer.Deserialize<IEnumerable <MenuItemDto>>(cachedMenuItems);
+                _logger.LogInformation("Retrieved menu items from cache.");
+                if (cacheditem is not null)
+                    return cacheditem;
+            }
+
             var items = await _menuRepository.GetAllAsync();
-            return items.Select(i => new MenuItemDto
+            var menuItems = items.Select(i => new MenuItemDto
             {
                 Id = i.Id,
                 Name = i.Name,
@@ -30,7 +45,15 @@ namespace MenuService.Application.Services
                 IsAvailable = i.IsAvailable,
                 imageurl = i.imageurl
 
-            });
+            }).ToList();
+
+            var options = new DistributedCacheEntryOptions
+            {
+                AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(5)
+            };
+            _logger.LogInformation($"Caching menu items.{string.Join(", ", menuItems.Select(m => m.Name))}");
+            await _cache.SetStringAsync(cacheKey, JsonSerializer.Serialize(menuItems), options);
+            return menuItems;
 
         }
 

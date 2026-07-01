@@ -14,7 +14,13 @@ namespace MenuService.Infrastructure.DependencyInjrct
 
             var cs = configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<MenuDbContext>(opt => opt.UseSqlServer(cs));
-
+            services.AddStackExchangeRedisCache(
+            redisoption =>
+        {
+            redisoption.Configuration = configuration.GetConnectionString("Redis");
+            redisoption.InstanceName = "MenuService_";
+        }
+        );
 
             services.AddScoped<IMenuRepository, MenuRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
